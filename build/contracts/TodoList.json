@@ -1244,12 +1244,13 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x5304b6A81E2512B34cc6fD42A2970C0c9C400594",
-      "transactionHash": "0xf506c3e21134c0fa4e56115eccd96c52f11d16b47a71424745302bdbeea87bc6"
+      "address": "0x727f0bE4ce6Da17b8B52e62eC4984acBC35831d3",
+      "transactionHash": "0x8b2e6bc965aff1f05fd219f7eee6f47fa625268f8bffd47b066eafb17f78c484"
     }
   },
   "schemaVersion": "3.4.1",
-  "updatedAt": "2021-07-22T12:09:09.861Z",
+  "updatedAt": "2021-07-22T12:10:28.932Z",
+  "networkType": "ethereum",
   "devdoc": {
     "methods": {}
   },
