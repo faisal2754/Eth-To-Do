@@ -1652,14 +1652,38 @@
   },
   "networks": {
     "5777": {
-      "events": {},
+      "events": {
+        "0x05d0fb833127fc08168556d0e7ca9554fc3f6bc843b3b7d2bf1c35aea6bab660": {
+          "anonymous": false,
+          "inputs": [
+            {
+              "indexed": false,
+              "name": "id",
+              "type": "uint256"
+            },
+            {
+              "indexed": false,
+              "name": "content",
+              "type": "string"
+            },
+            {
+              "indexed": false,
+              "name": "completed",
+              "type": "bool"
+            }
+          ],
+          "name": "TaskCreated",
+          "type": "event"
+        }
+      },
       "links": {},
-      "address": "0x211eB1c7F6ae9D6Dc4563E51Cedd31b6eCB92307",
-      "transactionHash": "0x669bbaf78a677e18c7f60515c87dd0029a61fe979d090470875bc99725e4cded"
+      "address": "0x68207e2709B94df6d0FEf5E426B4F91F20dCcD9c",
+      "transactionHash": "0xf0314cb66d2e65559e5b90632ee6833fa7f6d87a174e668dc0a3f9740221a880"
     }
   },
   "schemaVersion": "3.4.1",
-  "updatedAt": "2021-07-22T16:58:35.448Z",
+  "updatedAt": "2021-07-22T17:44:45.395Z",
+  "networkType": "ethereum",
   "devdoc": {
     "methods": {}
   },
